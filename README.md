@@ -41,7 +41,7 @@ Currently focused on mastering the **ROS 2 Navigation Stack (Nav2)** and explori
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryush-ingole&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayush's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush-ingole&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayush's GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-ingole&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
