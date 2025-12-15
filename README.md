@@ -41,13 +41,13 @@ Currently focused on mastering the **ROS 2 Navigation Stack (Nav2)** and explori
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryush-ingole&show_icons=true&theme=tokyonight&hide_border=true" alt="Aryush's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryush-ingole&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayush's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryush-ingole&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-ingole&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/aryush-ingole](https://linkedin.com/in/aryush-ingole)
+- **LinkedIn:** [linkedin.com/in/aryush-ingole](https://linkedin.com/in/ayush-ingole)
 - **Email:** aryushingole1234@gmail.com
