@@ -49,5 +49,5 @@ Currently focused on mastering the **ROS 2 Navigation Stack (Nav2)** and explori
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/aryush-ingole](https://linkedin.com/in/ayush-ingole)
+- **LinkedIn:** [linkedin.com/in/ayush-ingole](https://linkedin.com/in/ayush-ingole)
 - **Email:** aryushingole1234@gmail.com
