@@ -1,4 +1,4 @@
-### Hi there, I'm Aryush Ingole! 👋
+### Hi there, I'm Ayush Ingole! 👋
 
 I am a **Robotics & Automation Engineer** (Class of 2027) passionate about **Autonomous Systems**, **ROS 2**, and **Simulation**. 
 
